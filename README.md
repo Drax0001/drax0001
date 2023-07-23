@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bertholdnkengni" target="blank"><img src="https://img.shields.io/twitter/follow/bertholdnkengni?logo=twitter&style=for-the-badge" alt="bertholdnkengni" /></a> </p>
 
-- 🔭 I’m currently working on **a meme generator app**
+- 🔭 I’m currently working on **Todo List App but on steroid 💪😁**
 
 - 🌱 I’m currently learning **Reactjs**
 
