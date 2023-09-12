@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Berthold</h1>
 <h3 align="center">A passionate frontend developer from Cameroon</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drax0001" alt="drax0001" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/bertholdnkengni" target="blank"><img src="https://img.shields.io/twitter/follow/bertholdnkengni?logo=twitter&style=for-the-badge" alt="bertholdnkengni" /></a> </p>
-
 - 🔭 I’m currently working on **Todo List App but on steroid 💪😁**
 
 - 🌱 I’m currently learning **Reactjs**
