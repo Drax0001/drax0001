@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Berthold</h1>
-<h3 align="center">A passionate frontend developer from Cameroon</h3>
+<h3 align="center">A passionate Fullstack developer from Cameroon</h3>
 
-- 🔭 I’m currently working on **Todo List App but on steroid 💪😁**
+- 🔭 I’m currently working on **Swagg mobile app 💪😁**
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Html, CSS, javascript**
+- 💬 Ask me about **Typescript, Javascript, Reactjs, Nextjs, Express, React Native and more of the techs below**
 
 - 📫 How to reach me **berthnk@gmail.com**
 
