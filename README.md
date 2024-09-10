@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Typescript, Javascript, Reactjs, Nextjs, Express, React Native and more of the techs below**
+- 💬 Ask me about **Typescript, Javascript, Reactjs, Nextjs, Express, React Native, and more of the techs below**
 
 - 📫 How to reach me **berthnk@gmail.com**
 
