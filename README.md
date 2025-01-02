@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Swagg mobile app 💪😁**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Typescript, Javascript, Reactjs, Nextjs, Express, React Native, and more of the techs below**
 
